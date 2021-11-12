@@ -22,4 +22,4 @@ COPY bundle/tests/scorecard /tests/scorecard/
 
 
 LABEL com.redhat.delivery.operator.bundle=true
-LABEL com.redhat.openshift.versions="v4.6-v4.8"
+LABEL com.redhat.openshift.versions="v4.6-v4.9"
